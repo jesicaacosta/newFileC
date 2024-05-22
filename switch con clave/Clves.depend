@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631475393 source:c:\driveezequiel\facultad\unlz\fundamentos de computadores digitales\segundo cuatr 2021\contenido clases\unidad 4\ejercicios a mostrar\claves\clves\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

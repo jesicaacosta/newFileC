@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1713394121 source:c:\users\jesic\github\c\tpcode2\main.c
+	<stdio.h>
+	<stdlib.h>
+

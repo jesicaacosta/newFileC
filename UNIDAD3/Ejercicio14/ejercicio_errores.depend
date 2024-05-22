@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630950339 source:c:\users\matia\onedrive\escritorio\facultad\quinto cuatrimestre\fundamentos (ayudante de catedra)\ejercicio_errores\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1716339923 source:g:\mi unidad\facultad\fundamentos de los computadores digitales 3 009 tn a\c\unidad6\multiplesfuentes\funciones.c
+	"funciones.h"
+
+1716339881 source:g:\mi unidad\facultad\fundamentos de los computadores digitales 3 009 tn a\c\unidad6\multiplesfuentes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1716339819 g:\mi unidad\facultad\fundamentos de los computadores digitales 3 009 tn a\c\unidad6\multiplesfuentes\funciones.h
+
+1716339286 g:\mi unidad\facultad\fundamentos de los computadores digitales 3 009 tn a\c\unidad6\multiplesfuentes\funciones.c
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1713381265 source:c:\users\jesic\github\c\tp-coderunner\main.c
+	<stdio.h>
+	<stdlib.h>
+
