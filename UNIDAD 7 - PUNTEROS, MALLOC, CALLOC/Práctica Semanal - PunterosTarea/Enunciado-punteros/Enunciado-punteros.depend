@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1590359649 source:c:\users\laaut\desktop\fund. de programación informática (ferrov) - martes\unidad 6\ejercicio semanal obligatorio\enunciado-punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"seleccion_menu.h"
+
+1590337143 c:\users\laaut\desktop\fund. de programación informática (ferrov) - martes\unidad 6\ejercicio semanal obligatorio\enunciado-punteros\seleccion_menu.h
+
+1590337082 source:c:\users\laaut\desktop\fund. de programación informática (ferrov) - martes\unidad 6\ejercicio semanal obligatorio\enunciado-punteros\seleccion_menu.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1718139569 source:c:\users\jesic\downloads\compressed\ejercicio 2 - punteros\enunciado-punteros\seleccion_menu.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

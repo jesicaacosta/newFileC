@@ -1,0 +1,9 @@
+#ifndef SELECION_MENU_H_INCLUDED
+#define SELECION_MENU_H_INCLUDED
+
+int selectopt(void);
+
+enum opciones_e {EJERCICIO_1 = 1 ,  EJERCICIO_2, EJERCICIO_3, EJERCICIO_4, EJERCICIO_5 , SALIR};
+
+#endif // SELECION_MENU_H_INCLUDED
+

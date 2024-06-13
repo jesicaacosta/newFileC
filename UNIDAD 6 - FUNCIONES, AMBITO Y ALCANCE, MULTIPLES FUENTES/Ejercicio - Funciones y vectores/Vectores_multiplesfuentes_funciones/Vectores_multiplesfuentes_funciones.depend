@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1717881654 source:c:\users\jesic\downloads\ejercicio - vectores_multiplesfuentes_funciones\vectores_multiplesfuentes_funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"utilidades.h"
+
+1717881654 c:\users\jesic\downloads\ejercicio - vectores_multiplesfuentes_funciones\vectores_multiplesfuentes_funciones\utilidades.h
+
+1717881691 source:c:\users\jesic\downloads\ejercicio - vectores_multiplesfuentes_funciones\vectores_multiplesfuentes_funciones\utilidades.c
+	<stdio.h>
+	<stdbool.h>
+	<math.h>
+
